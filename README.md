@@ -1,3 +1,2 @@
-# Long
-Long_Homework
-# 龙哥YYDS
+## Signal Homework
+Some Methods to deal with images
